@@ -30,3 +30,7 @@ Since it rewrites commit history and commit hashes, you must use "git push force
 
 
 #### The cost of making mistakes in large teams is expensive, so it's preferable to use simple merge strategy with its cons. Rebase is very bad for this purpose. Additionally, merge saves history of both commits, leading to transparency and understanding of the code. While, squash removes it.
+
+### After disabling Squash and Rebase Merge strategies my repository settings looks following:
+
+![alt text](image.png)
